@@ -1,0 +1,6 @@
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.1.137</domain>
+        <!-- Add other domains here if required -->
+    </domain-config>
+</network-security-config>
